@@ -1,4 +1,6 @@
-# demo-spring-react-example-v2: dsre-v2
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-laszlo-tw/branch/master/graph/badge.svg?token=klGEDh3vHt)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-laszlo-tw)
+
+# jpa03-laszlo-tw: jlt
 
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-laszlo-tw-docs/>
